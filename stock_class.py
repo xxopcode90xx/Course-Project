@@ -29,7 +29,7 @@ class DailyData:
 def main():
     error_count = 0
     error_list = []
-    print("Unit Testing Starting---")
+    print("Unit Testing Starting ---")
     # Test Add Stock
     print("Testing Add Stock...",end="")
     try:
